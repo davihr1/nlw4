@@ -36,3 +36,43 @@
     font-size: 6.25rem;
     margin: 0 0.5rem;
 }
+
+.countdowButton {
+    width: 100%;
+    height: 5rem;
+
+    margin-top: 2rem;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border: 0;
+    border-radius: 5px;
+
+    background: var(--blue);
+    color: var(--white);
+    font-weight: 600;
+
+    transition: background-color 0.2s;
+}
+
+
+.countdowButton:not(:disabled):hover {
+    background: var(--blue-dark);
+}
+
+.countdowButtonActive {
+    background: var(--white);
+    color: var(--title);
+}
+.countdowButtonActive:not(:disabled):hover {
+    background: var(--red);
+    color: var(--white);
+}
+
+.countdowButton:disabled {
+    background: var(--wihte);
+    color: var(--text);
+    cursor: not-allowed;
+}

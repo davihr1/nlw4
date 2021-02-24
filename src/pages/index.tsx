@@ -1,3 +1,5 @@
+import  Head  from "next/head";
+import ChallengesBox from "../components/ChallengesBox";
 import CompletedChallenges from "../components/CompletedChallenges";
 import Countdown from "../components/Countdow";
 import { ExperienceBar } from "../components/Experiencebar";
@@ -10,15 +12,18 @@ export default function Home() {
   return (
     <div className={styles.container}>
      <ExperienceBar />
-
+     <Head>
+       <title>Inicio | move.it</title>
+     </Head>
      <section>
          <div>
              <Profile />
              <CompletedChallenges />
              <Countdown />
          </div>
-
-         <div></div>
+         <div>
+         <ChallengesBox />
+         </div>
      </section>
     </div>
   );
