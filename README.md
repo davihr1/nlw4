@@ -1,16 +1,18 @@
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/davifa1/nlw4)
 
+---
+
+### `Deploy`
 [![Live Web](https://img.icons8.com/carbon-copy/2x/server.png)](https://moveitnlw-pied.vercel.app)
 
-===
-
-### Move.it
+### `Move.it`
    Projeto ciado no evento nlw4 da rocketseat na trilha Reactjs com [Diego Fernandes](https://github.com/diego3g).
 
-===
 -Print da Tela:
 
 ![](./.github/Capturadaweb.jpeg)
+
+---
 
 ### :computer: Tecnologias:
 - ReactJS:
@@ -19,7 +21,7 @@
 - Nextjs
 - CSS
 
-===
+---
 Download dos pakgs: yarn
 
 Desafios: Aquivo JSON na pasta raiz
@@ -27,9 +29,10 @@ Desafios: Aquivo JSON na pasta raiz
 Deploy: Vercel
 
 Image de Perfil: Github
-===
 
-### FIgma Layouts
+---
+
+### `FIgma Layouts`
 [Link do Design Do Projeto](https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0/duplicate)
 
 --- 
