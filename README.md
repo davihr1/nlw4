@@ -1,6 +1,6 @@
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/davifa1/nlw4)
 
-[![Lave Code & Vercel](https://vercel.com)](https://moveitnlw-pied.vercel.app)
+[![Live Web](https://previews.123rf.com/images/bestvectorstock/bestvectorstock1808/bestvectorstock180813879/107224375-server-vector-icon-isolated-on-transparent-background-server-logo-concept.jpg)](https://moveitnlw-pied.vercel.app)
 
 ===
 
