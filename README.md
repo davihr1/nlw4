@@ -1,5 +1,44 @@
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/davifa1/nlw4)
 
+[![Lave Code & Vercel](https://vercel.com)](https://moveitnlw-pied.vercel.app)
+
+===
+
+### Move.it
+   Projeto ciado no evento nlw4 da rocketseat na trilha Reactjs com [Diego Fernandes](https://github.com/diego3g).
+
+===
+-Print da Tela:
+
+![](./.github/Capturadaweb.jpeg)
+
+### :computer: Tecnologias:
+- ReactJS:
+-- (Context, Module, UseEffect, UseState, js-cookies)
+- TSx
+- Nextjs
+- CSS
+
+===
+Download dos pakgs: yarn
+
+Desafios: Aquivo JSON na pasta raiz
+
+Deploy: Vercel
+
+Image de Perfil: Github
+===
+
+### FIgma Layouts
+[Link do Design Do Projeto](https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0/duplicate)
+
+--- 
+Utilizei **GitPod** Para Iniciar e criar o projeto(Teste), e no segundo dia Vscode na **Maquina Local**
+
+js-cookies para Armazenar os dados do Level,Desafios Completos e Xp No Proprio Navegador
+
+## Version App: 1.0
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -46,3 +85,6 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+---
+***</>*** **by [Rocketseat](https://github.com/rocketseat-education)**
