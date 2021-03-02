@@ -23,6 +23,8 @@
 body {
     background: var(--background);
     color: var(--text);
+    transition-duration: 1000ms;
+    transition-delay: 1s;
 }
 
 @media(max-whidth: 1080px) {

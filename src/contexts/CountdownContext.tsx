@@ -37,6 +37,10 @@ export function CountdownProvider ( {children}: CountdowProviderProps) {
         
     function startCountdown() {
         setisActive(true);
+        document.querySelector("body").style.background = '';
+        document.getElementById("challengesBoxContainer").style.backgroundColor= ''
+        document.querySelector("body").style.color = '';
+        document.getElementById("challengesBoxContainer").style.color = ''
     }
 
     function resetCountdown() {
@@ -44,6 +48,11 @@ export function CountdownProvider ( {children}: CountdowProviderProps) {
         setisActive(false);
         setTime(0.1 * 60);
         sethasFinished(false);
+        // edit colors
+
+        document.querySelector("body").style.background = 'var(--red)'
+        document.getElementById("challengesBoxContainer").style.backgroundColor= 'transparent'
+        document.getElementById("challengesBoxContainer").style.color = 'white'
     }
 
     useEffect(() => {

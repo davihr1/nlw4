@@ -23,7 +23,6 @@ export default function Countdown() {
                 <span>{secondsRight}</span>
             </div>
         </div>
-;
         { hasFinished ? (
                 <button disabled
                 className={`${styles.countdowButton}`}>
