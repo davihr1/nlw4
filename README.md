@@ -3,7 +3,7 @@
 ---
 
 ### `Deploy`
-[![Live Web](https://img.icons8.com/carbon-copy/2x/server.png)](https://moveitnlw-pied.vercel.app)
+[![Live Web](https://img.icons8.com/carbon-copy/2x/server.png)](https://moveitfocus.vercel.app)
 
 ### `Move.it`
    Projeto ciado no evento nlw4 da rocketseat na trilha Reactjs com [Diego Fernandes](https://github.com/diego3g).
@@ -40,8 +40,14 @@ Utilizei **GitPod** Para Iniciar e criar o projeto(Teste), e no segundo dia Vsco
 
 js-cookies para Armazenar os dados do Level,Desafios Completos e Xp No Proprio Navegador
 
-## Version App: 1.0
+---
+## Version App: 3.0
 
+responsivo pra mobile,
+se a pessoa clicar no botaão falhei(adicionei um eveito sonoro de falhou) e abandonar ciclo
+a cor de fundo vai ficar vermelha e a cores do texto vai ficar branco
+
+---
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
