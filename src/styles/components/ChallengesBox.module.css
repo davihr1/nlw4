@@ -16,6 +16,12 @@
     text-align: center;
 }
 
+@media(max-width: 670px) {
+    .challengesBoxContainer {
+        height: 500pt;
+    }
+}
+
 .challengeNotActive {
     display: flex;
     flex-direction: column;
@@ -109,3 +115,4 @@
 .ChallendeActive footer button:hover {
     filter: brightness(0.9);
 }
+

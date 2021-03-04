@@ -55,7 +55,10 @@
     color: var(--white);
     font-weight: 600;
 
-    transition: background-color 0.2s;
+    transition: background-color 0.3s;
+
+    outline-color: var(--blue);
+    border-color: transparent;
 }
 
 

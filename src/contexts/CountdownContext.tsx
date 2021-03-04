@@ -51,6 +51,7 @@ export function CountdownProvider ( {children}: CountdowProviderProps) {
         // edit colors
 
         document.querySelector("body").style.background = 'var(--red)'
+        document.querySelector("body").style.color = 'var(--white)'
         document.getElementById("challengesBoxContainer").style.backgroundColor= 'transparent'
         document.getElementById("challengesBoxContainer").style.color = 'white'
     }
